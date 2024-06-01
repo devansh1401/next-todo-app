@@ -12,7 +12,7 @@ const DocsIdPage = () => {
     <div className="flex h-screen items-center justify-center">
       <div className="text-center space-y-4">
         <h1 className="text-4xl font-bold text-gray-800">🚧 Under Construction 🚧</h1>
-        <p className="text-xl text-gray-600">Our website is currently under construction. We'll be here soon with our shiny new site, featuring:</p>
+        <p className="text-xl text-gray-600">This Page is currently under construction. We&apos;ll be here soon with our shiny new site, featuring:</p>
         <ul className="list-disc text-gray-600 pl-5">
           <li>Awesome new features</li>
           <li>Improved performance</li>

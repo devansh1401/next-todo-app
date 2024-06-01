@@ -17,7 +17,7 @@
 // TodoList.tsx
 import Todo from "./Todo"
 
-const TodoList = ({Todos}) => {
+const TodoList = ({Todos}: {Todos: typeof Todo[]}) => {
     return (
         <div className="p-4">
             <h1 className="text-2xl font-semibold mb-4">Todo List</h1>
